@@ -1,0 +1,1 @@
+# BirdCLEF_2022_8th_place
